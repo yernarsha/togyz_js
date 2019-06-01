@@ -1,0 +1,32 @@
+h3 {
+	text-align: center;
+}
+
+div {
+	float: left;
+	padding: 10px;
+}
+
+p {
+	clear: both;
+	text-align: center;
+}
+
+tr {
+	text-align: center;
+}
+
+td {
+	width: 80px;
+}
+
+.numbering {
+	font-size: 15px;
+	font-weight: bold;
+	color: blue;
+}
+
+.otau, .kazan {
+	font-size: 50px;
+	font-weight: bold;
+}
